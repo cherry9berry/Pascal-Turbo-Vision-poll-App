@@ -1,4 +1,4 @@
-# Borland-Pascal-Turbo-Vision
+# Borland Pascal Turbo Vision
 
 Borland Pascal 7.0 & Turbo Vision 2.0
 Uses messageBox, RadioButtons, TDialog, Tapplication and other.
