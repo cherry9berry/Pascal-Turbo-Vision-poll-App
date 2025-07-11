@@ -1,4 +1,4 @@
-# Poll System - BMSTU Coursework
+# Poll System 
 
 **Borland Pascal 7.0 + Turbo Vision 2.0**
 
